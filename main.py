@@ -1,9 +1,8 @@
 import streamlit as st
 import time
+from PIL import Image
 img = Image.open("ishin.jpg")
 img2 = Image.open("shinsaku.jpg")
-
-
 
 st.title("自己研鑽共有アプリ Share-Kensan\n～Rivals still growing～")
 
