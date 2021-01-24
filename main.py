@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="Omoshiroki",
     page_icon="🧊",
     layout="centered",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="auto",
     )
 
 import time
